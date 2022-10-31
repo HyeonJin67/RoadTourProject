@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: dca5b4bc4f704664ab34062f5e222977
+timeCreated: 1537871373
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bottle
+    100002: //RootNode
+    100004: DrugStore
+    100006: Pill1
+    100008: Pilll2
+    100010: RedCross
+    400000: Bottle
+    400002: //RootNode
+    400004: DrugStore
+    400006: Pill1
+    400008: Pilll2
+    400010: RedCross
+    2300000: Bottle
+    2300002: DrugStore
+    2300004: Pill1
+    2300006: Pilll2
+    2300008: RedCross
+    3300000: Bottle
+    3300002: DrugStore
+    3300004: Pill1
+    3300006: Pilll2
+    3300008: RedCross
+    4300000: Pilll2
+    4300002: RedCross
+    4300004: Pill1
+    4300006: Bottle
+    4300008: DrugStore
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

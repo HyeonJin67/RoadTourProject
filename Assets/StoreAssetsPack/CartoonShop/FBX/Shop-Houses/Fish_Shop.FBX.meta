@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: f63dbca5e3e086b428d4330b90baa229
+timeCreated: 1537871373
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: 'AngelFish '
+    100002: Bone299
+    100004: Bone300
+    100006: Bone301
+    100008: Bone302
+    100010: Bone303
+    100012: Bone304
+    100014: Bone305
+    100016: Bone306
+    100018: Bone307
+    100020: Bone308
+    100022: Bone309
+    100024: Bone310
+    100026: Bone311
+    100028: Bone312
+    100030: Bone313
+    100032: Circle007
+    100034: Circle008
+    100036: Circle009
+    100038: //RootNode
+    100040: FishBowl
+    100042: FishFox
+    100044: FishHouse
+    100046: FoxFish
+    100048: Point001
+    100050: Point002
+    100052: Point003
+    100054: Seaweed
+    400000: 'AngelFish '
+    400002: Bone299
+    400004: Bone300
+    400006: Bone301
+    400008: Bone302
+    400010: Bone303
+    400012: Bone304
+    400014: Bone305
+    400016: Bone306
+    400018: Bone307
+    400020: Bone308
+    400022: Bone309
+    400024: Bone310
+    400026: Bone311
+    400028: Bone312
+    400030: Bone313
+    400032: Circle007
+    400034: Circle008
+    400036: Circle009
+    400038: //RootNode
+    400040: FishBowl
+    400042: FishFox
+    400044: FishHouse
+    400046: FoxFish
+    400048: Point001
+    400050: Point002
+    400052: Point003
+    400054: Seaweed
+    2300000: FishBowl
+    2300002: FishHouse
+    3300000: FishBowl
+    3300002: FishHouse
+    4300000: FishHouse
+    4300002: FoxFish
+    4300004: FishFox
+    4300006: 'AngelFish '
+    4300008: Seaweed
+    4300010: FishBowl
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: 'AngelFish '
+    13700002: FishFox
+    13700004: FoxFish
+    13700006: Seaweed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

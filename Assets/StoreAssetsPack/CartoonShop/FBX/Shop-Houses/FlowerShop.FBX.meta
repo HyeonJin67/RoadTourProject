@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: ec81a79afe4990548af4de935f1372e5
+timeCreated: 1537871373
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bone228
+    100002: Bone229
+    100004: Bone230
+    100006: Bone231
+    100008: Bone232
+    100010: Bone233
+    100012: Bone234
+    100014: Bone235
+    100016: Bone236
+    100018: Bone237
+    100020: Bone238
+    100022: Bone239
+    100024: Bone240
+    100026: Bone241
+    100028: Bone242
+    100030: Bone243
+    100032: Bone244
+    100034: Bone245
+    100036: Bone246
+    100038: Bone247
+    100040: Bone248
+    100042: Bone249
+    100044: Bone250
+    100046: Bone251
+    100048: Bone252
+    100050: Bone253
+    100052: Bone254
+    100054: Bone255
+    100056: Bone256
+    100058: Bone257
+    100060: Bone258
+    100062: Bone259
+    100064: Bone260
+    100066: Bone261
+    100068: Bone262
+    100070: Bone263
+    100072: Bone264
+    100074: Bone265
+    100076: Bone266
+    100078: Bone267
+    100080: Bone268
+    100082: Bone269
+    100084: Bone270
+    100086: Bone271
+    100088: Bone272
+    100090: Bone273
+    100092: FlorristShop
+    100094: Flower_007
+    100096: //RootNode
+    100098: Object339
+    100100: Object340
+    100102: Object341
+    100104: Object342
+    100106: Object343
+    100108: Object344
+    100110: Object345
+    100112: Object346
+    100114: Object347
+    400000: Bone228
+    400002: Bone229
+    400004: Bone230
+    400006: Bone231
+    400008: Bone232
+    400010: Bone233
+    400012: Bone234
+    400014: Bone235
+    400016: Bone236
+    400018: Bone237
+    400020: Bone238
+    400022: Bone239
+    400024: Bone240
+    400026: Bone241
+    400028: Bone242
+    400030: Bone243
+    400032: Bone244
+    400034: Bone245
+    400036: Bone246
+    400038: Bone247
+    400040: Bone248
+    400042: Bone249
+    400044: Bone250
+    400046: Bone251
+    400048: Bone252
+    400050: Bone253
+    400052: Bone254
+    400054: Bone255
+    400056: Bone256
+    400058: Bone257
+    400060: Bone258
+    400062: Bone259
+    400064: Bone260
+    400066: Bone261
+    400068: Bone262
+    400070: Bone263
+    400072: Bone264
+    400074: Bone265
+    400076: Bone266
+    400078: Bone267
+    400080: Bone268
+    400082: Bone269
+    400084: Bone270
+    400086: Bone271
+    400088: Bone272
+    400090: Bone273
+    400092: FlorristShop
+    400094: Flower_007
+    400096: //RootNode
+    400098: Object339
+    400100: Object340
+    400102: Object341
+    400104: Object342
+    400106: Object343
+    400108: Object344
+    400110: Object345
+    400112: Object346
+    400114: Object347
+    2300000: FlorristShop
+    2300002: Flower_007
+    2300004: Object340
+    2300006: Object341
+    2300008: Object342
+    2300010: Object343
+    2300012: Object344
+    2300014: Object345
+    2300016: Object346
+    2300018: Object347
+    3300000: FlorristShop
+    3300002: Flower_007
+    3300004: Object340
+    3300006: Object341
+    3300008: Object342
+    3300010: Object343
+    3300012: Object344
+    3300014: Object345
+    3300016: Object346
+    3300018: Object347
+    4300000: FlorristShop
+    4300002: Flower_007
+    4300004: Object340
+    4300006: Object341
+    4300008: Object343
+    4300010: Object344
+    4300012: Object345
+    4300014: Object346
+    4300016: Object347
+    4300018: Object339
+    4300020: Object342
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Object339
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

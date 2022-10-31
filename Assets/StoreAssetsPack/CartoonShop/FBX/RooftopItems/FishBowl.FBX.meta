@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 2638b491cb0fdad4c887971164f1d98f
+timeCreated: 1537871493
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: adw002
+    100002: Bone314
+    100004: Bone315
+    100006: Bone316
+    100008: Bone317
+    100010: Bone318
+    100012: Bone319
+    100014: Bone320
+    100016: Bone321
+    100018: Bone322
+    100020: Bone323
+    100022: Bone324
+    100024: Bone325
+    100026: Bone326
+    100028: Bone327
+    100030: Bone328
+    100032: Circle010
+    100034: Circle011
+    100036: Circle012
+    100038: Fish_Bowl
+    100040: //RootNode
+    100042: Object471
+    100044: Object472
+    100046: Object473
+    100048: Object474
+    100050: Point004
+    100052: Point005
+    100054: Point006
+    400000: adw002
+    400002: Bone314
+    400004: Bone315
+    400006: Bone316
+    400008: Bone317
+    400010: Bone318
+    400012: Bone319
+    400014: Bone320
+    400016: Bone321
+    400018: Bone322
+    400020: Bone323
+    400022: Bone324
+    400024: Bone325
+    400026: Bone326
+    400028: Bone327
+    400030: Bone328
+    400032: Circle010
+    400034: Circle011
+    400036: Circle012
+    400038: Fish_Bowl
+    400040: //RootNode
+    400042: Object471
+    400044: Object472
+    400046: Object473
+    400048: Object474
+    400050: Point004
+    400052: Point005
+    400054: Point006
+    2300000: Fish_Bowl
+    2300002: Object474
+    3300000: Fish_Bowl
+    3300002: Object474
+    4300000: Object471
+    4300002: Object472
+    4300004: adw002
+    4300006: Object473
+    4300008: Object474
+    4300010: Fish_Bowl
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: adw002
+    13700002: Object471
+    13700004: Object472
+    13700006: Object473
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+[Speaker]
+씬에 올려 놓은 후 사용할 스크립트에서 FindObjectOfType<SpeakerHandler>(); 를 사용하여 등록
+이후 SoundByNum(int)로 공통 사운드 출력 SoundByClip(AudioClip)으로 다른 오디오 출력
+SetVolume(float)를 이용하여 볼륨 조정.
+SH - AudioClip이 다 재생되지 않고 연속적으로 출력 하고 싶을땐 
+SoundByNum2(int)로 사용해야함.
+
+[SceneManager]
+씬에 올려놓은 후 SceneChanger.Instance.ChangeScene(씬이름)으로 씬 전환
+
+[TouchEffect]
+캔버스에 올릴경우 다른 이미지를 가리지 않도록 주의.
+
+[ScoreCase]
+캔버스에 올려서 사용. 게임 클리어시 일어날 이벤트 들을 SceneComplete에 담기
+
+[Scene_Load] 배경 밝기 , 배경 BGM , 배경Color , 배경BGM Volum 저장 및 불러오기 
+Canvas안에 넣어주세요 배경 밝기 조절 때문에 그렇습니다
+Audio Source 에 원하는 BGM Clip을 넣어주세요 

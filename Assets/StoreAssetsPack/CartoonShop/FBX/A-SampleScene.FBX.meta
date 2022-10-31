@@ -1,0 +1,1752 @@
+fileFormatVersion: 2
+guid: eab64f980b9d4cf499c4777b5fbef853
+timeCreated: 1538364541
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: A-PIZZA001
+    100002: A-RAMEN001
+    100004: //RootNode
+    100006: Advertising_Pole_005
+    100008: Advertising_Pole_008
+    100010: Advertising_Pole_009
+    100012: Advertising_Pole_010
+    100014: Advertising_Pole_011
+    100016: Advertising_Pole_012
+    100018: adw004
+    100020: B004
+    100022: B005
+    100024: B006
+    100026: bakery001
+    100028: Basket001
+    100030: Big_Ben_Clock_017
+    100032: Big_Ben_Clock_018
+    100034: Big_Ben_Clock_019
+    100036: Big_Ben_Clock_020
+    100038: Big_Ben_Clock_021
+    100040: Big_Ben_Clock_022
+    100042: Big_Ben_Clock_023
+    100044: Big_Ben_Clock_024
+    100046: Big_Ben_Clock_025
+    100048: BlueBuilding
+    100050: BlueHouse001
+    100052: BlueHouse002
+    100054: Bone274(mirrored)001
+    100056: Bone275(mirrored)001
+    100058: Bone276(mirrored)001
+    100060: Bone277(mirrored)001
+    100062: Bone329
+    100064: Bone330
+    100066: Bone331
+    100068: Bone332
+    100070: Bone333
+    100072: Bone334
+    100074: Bone335
+    100076: Bone336
+    100078: Bone337
+    100080: Bone338
+    100082: Bone339
+    100084: Bone340
+    100086: Bone341
+    100088: Bone342
+    100090: Bone343
+    100092: Bone344
+    100094: Bone345
+    100096: Bone346
+    100098: Bone347
+    100100: Bone348
+    100102: Bone349
+    100104: Bone350
+    100106: Bone351
+    100108: Bone352
+    100110: Bone353
+    100112: Bone354
+    100114: Bone355
+    100116: Bone356
+    100118: Bone357
+    100120: Bone358
+    100122: Bone359
+    100124: Bone360
+    100126: Bone361
+    100128: Bone362
+    100130: Bone363
+    100132: Bone364
+    100134: Bone365
+    100136: Bone366
+    100138: Bone367
+    100140: Bone368
+    100142: Bone369
+    100144: Bone370
+    100146: Bone371
+    100148: Bone372
+    100150: Bone373
+    100152: Bone374
+    100154: Bone375
+    100156: Bone376
+    100158: Bone377
+    100160: Bone378
+    100162: Bone412
+    100164: Bone413
+    100166: Bone414
+    100168: Bone415
+    100170: Bone416
+    100172: Bone417
+    100174: Bone418
+    100176: Bone419
+    100178: Bone420
+    100180: Bone421
+    100182: Bone422
+    100184: Bone423
+    100186: Bone424
+    100188: Bone425
+    100190: Bone426
+    100192: Bone427
+    100194: Bone428
+    100196: Bone429
+    100198: Bone430
+    100200: Bone431
+    100202: Bone432
+    100204: Bone433
+    100206: Bone434
+    100208: Bone435
+    100210: Bone436
+    100212: Bone437
+    100214: Bone438
+    100216: Bone439
+    100218: Bone440
+    100220: Bone441
+    100222: Bone442
+    100224: Bone443
+    100226: Bone444
+    100228: Bone445
+    100230: Bone446
+    100232: Bone447
+    100234: Bone448
+    100236: Bone449
+    100238: Bone450
+    100240: Bone451
+    100242: Bone452
+    100244: Bone468
+    100246: Bone469
+    100248: Bone470
+    100250: Bone471
+    100252: Bone472
+    100254: Bone473
+    100256: Bone474
+    100258: Bone475
+    100260: Bone476
+    100262: Bone477
+    100264: Bone478
+    100266: Bone479
+    100268: Bone480
+    100270: Bone481
+    100272: Bone482
+    100274: Bone483
+    100276: Bone484
+    100278: Bone485
+    100280: Bone486
+    100282: Bone487
+    100284: Bone488
+    100286: Book Store001
+    100288: Boot003
+    100290: Boot004
+    100292: BreadHouse001
+    100294: BreadLoaf003
+    100296: BreadPiece003
+    100298: BreadPiece004
+    100300: Burger1
+    100302: Burger2
+    100304: Burgrt_904
+    100306: Burgrt_905
+    100308: Burgrt_906
+    100310: Burgrt_907
+    100312: Cabbage001
+    100314: Candy Shop002
+    100316: Carrot001
+    100318: Circle013
+    100320: Circle020
+    100322: Circle021
+    100324: Circle025
+    100326: Circle026
+    100328: Circle027
+    100330: cola-lit002
+    100332: cola-lit003
+    100334: Donut Shop004
+    100336: Donut Shop006
+    100338: Donut2
+    100340: Donut_010
+    100342: Donut_011
+    100344: Donut_012
+    100346: Donut_016
+    100348: Donut_017
+    100350: Donut_018
+    100352: DrinkStall002
+    100354: DrinkStall003
+    100356: Drug Store - opacity box002
+    100358: Drug Store002
+    100360: Eggplant003
+    100362: Eggplant004
+    100364: Fashion
+    100366: Fashion Shop001
+    100368: Fat001
+    100370: Fish Shop002
+    100372: Fish_Bowl001
+    100374: Fitness Center001
+    100376: Flower_008
+    100378: Fruit024
+    100380: Fruit025
+    100382: Fruit026
+    100384: Fruit027
+    100386: Fruit028
+    100388: Fruit029
+    100390: Fruit030
+    100392: Fruit031
+    100394: Fruit032
+    100396: Fruit033
+    100398: FruitShop
+    100400: GreenHouse001
+    100402: Grocery
+    100404: GroceryStore001
+    100406: Ground002
+    100408: Group026
+    100410: Group028
+    100412: Group031
+    100414: Group032
+    100416: Group036
+    100418: Group039
+    100420: Group040
+    100422: Group049
+    100424: Group052
+    100426: Group062
+    100428: Group063
+    100430: Group064
+    100432: Group069
+    100434: Group094
+    100436: Group096
+    100438: Group097
+    100440: Group098
+    100442: Group104
+    100444: Group105
+    100446: Group115
+    100448: Group116
+    100450: Group117
+    100452: Group118
+    100454: Group119
+    100456: Guide_Pole001
+    100458: Guide_Pole002
+    100460: Haircut Store001
+    100462: Hamburger RestaurantA001
+    100464: Ice Cream Store 002
+    100466: IceCream004
+    100468: Karaoke Club001
+    100470: Lid001
+    100472: Mirror001
+    100474: Object479
+    100476: Object480
+    100478: Object481
+    100480: Object482
+    100482: Object483
+    100484: Object484
+    100486: Object485
+    100488: Object486
+    100490: Object487
+    100492: Object488
+    100494: Object489
+    100496: Object490
+    100498: Object491
+    100500: Object492
+    100502: Object493
+    100504: Object494
+    100506: Object495
+    100508: Object496
+    100510: Object497
+    100512: Object501
+    100514: Object503
+    100516: Object504
+    100518: Object505
+    100520: Object506
+    100522: Object507
+    100524: Object508
+    100526: Object509
+    100528: Object510
+    100530: Object511
+    100532: Object512
+    100534: Object513
+    100536: Object531
+    100538: Object532
+    100540: Object533
+    100542: Object534
+    100544: Object535
+    100546: Object536
+    100548: Object537
+    100550: Object538
+    100552: Object539
+    100554: Object540
+    100556: Object541
+    100558: Object543
+    100560: Object544
+    100562: Object545
+    100564: Object550
+    100566: Object551
+    100568: Object552
+    100570: Object553
+    100572: Object554
+    100574: Object555
+    100576: Object556
+    100578: Object557
+    100580: Object558
+    100582: Object559
+    100584: PetShop001
+    100586: PinkHouse001
+    100588: PinkHouse002
+    100590: Pizza_shop003
+    100592: Pizza_shop004
+    100594: Pizza_shop005
+    100596: Point010
+    100598: Point011
+    100600: Point012
+    100602: Ramen_026
+    100604: Ramen_027
+    100606: Ramen_028
+    100608: Ramen_029
+    100610: Ramen_030
+    100612: Ramen_031
+    100614: Ramen_032
+    100616: Ramen_033
+    100618: Ramen_034
+    100620: Ramen_035
+    100622: Ramen_036
+    100624: Ramen_037
+    100626: Ramen_038
+    100628: Ramen_039
+    100630: Ramen_040
+    100632: Ramen_041
+    100634: Ramen_042
+    100636: Ramen_043
+    100638: Ramen_044
+    100640: Ramen_045
+    100642: Ramen_046
+    100644: Ramen_047
+    100646: Ramen_048
+    100648: Ramen_049
+    100650: Ramen_050
+    100652: Road
+    100654: Road Piece 006
+    100656: Road Piece 007
+    100658: Road Piece 008
+    100660: Road Piece 009
+    100662: Road Piece 010
+    100664: Road Piece 011
+    100666: Road Piece 012
+    100668: Road Piece 013
+    100670: Road Piece 014
+    100672: Road Piece 015
+    100674: Road Piece 016
+    100676: Road Piece 017
+    100678: Road Piece 018
+    100680: Road Piece 019
+    100682: Road Piece 020
+    100684: Road Piece 021
+    100686: Road Piece 022
+    100688: Road Piece 023
+    100690: Road Piece 024
+    100692: Road Piece 025
+    100694: Road Piece 026
+    100696: Road Piece 027
+    100698: Road Piece 028
+    100700: Road Piece 029
+    100702: Road Piece 030
+    100704: Road Piece 031
+    100706: Road Piece 032
+    100708: Road Piece 033
+    100710: Road Piece 034
+    100712: Road Piece 035
+    100714: Road Piece 036
+    100716: Road Piece 037
+    100718: Road Piece 038
+    100720: Road Piece 039
+    100722: Road Piece 040
+    100724: Road Piece 041
+    100726: Road Piece 042
+    100728: RoadPiece_008
+    100730: RoadPiece_009
+    100732: RoadPiece_010
+    100734: RoadPiece_011
+    100736: RoadPiece_012
+    100738: RoadPiece_06
+    100740: RoadPiece_L
+    100742: Sandal001
+    100744: Scissor003
+    100746: Scissor004
+    100748: Shoe001
+    100750: ShoeHouse 001
+    100752: Shrub001
+    100754: Shrub002
+    100756: Shrub003
+    100758: Shrub004
+    100760: Shrub005
+    100762: Shrub006
+    100764: Shrub007
+    100766: Shrub008
+    100768: Shrub009
+    100770: Shrub010
+    100772: Shrub011
+    100774: Shrub012
+    100776: Street Lamp001
+    100778: Street Lamp002
+    100780: Street Lamp003
+    100782: Street Lamp004
+    100784: Street Lamp005
+    100786: Street Lamp006
+    100788: Street Lamp007
+    100790: Street Lamp008
+    100792: Street Lamp009
+    100794: Street Lamp010
+    100796: Street Lamp011
+    100798: Street Lamp012
+    100800: Street Lamp013
+    100802: Street Lamp014
+    100804: Table_003
+    100806: Table_004
+    100808: Table_005
+    100810: Table_006
+    100812: Table_007
+    100814: Table_008
+    100816: Tomato001
+    100818: Tree_005
+    100820: Tree_006
+    100822: Tree_007
+    100824: Wine Bar002
+    100826: Wine Bar003
+    100828: Wine-Lid002
+    100830: Wine-Lid003
+    100832: Wine003
+    100834: Wine004
+    100836: WineCup003
+    100838: WineCup004
+    100840: Wooden  Fence003
+    100842: Wooden  Fence005
+    100844: Wooden  Fence006
+    100846: Wooden  Fence007
+    100848: Wooden  Fence008
+    100850: Wooden  Fence009
+    100852: Wooden  Fence010
+    100854: Wooden  Fence011
+    100856: Wooden  Fence012
+    100858: Wooden  Fence013
+    100860: Wooden  Fence014
+    100862: Yellow_3_003
+    100864: Yellow_fat_004
+    100866: Yellow_fat_005
+    400000: A-PIZZA001
+    400002: A-RAMEN001
+    400004: //RootNode
+    400006: Advertising_Pole_005
+    400008: Advertising_Pole_008
+    400010: Advertising_Pole_009
+    400012: Advertising_Pole_010
+    400014: Advertising_Pole_011
+    400016: Advertising_Pole_012
+    400018: adw004
+    400020: B004
+    400022: B005
+    400024: B006
+    400026: bakery001
+    400028: Basket001
+    400030: Big_Ben_Clock_017
+    400032: Big_Ben_Clock_018
+    400034: Big_Ben_Clock_019
+    400036: Big_Ben_Clock_020
+    400038: Big_Ben_Clock_021
+    400040: Big_Ben_Clock_022
+    400042: Big_Ben_Clock_023
+    400044: Big_Ben_Clock_024
+    400046: Big_Ben_Clock_025
+    400048: BlueBuilding
+    400050: BlueHouse001
+    400052: BlueHouse002
+    400054: Bone274(mirrored)001
+    400056: Bone275(mirrored)001
+    400058: Bone276(mirrored)001
+    400060: Bone277(mirrored)001
+    400062: Bone329
+    400064: Bone330
+    400066: Bone331
+    400068: Bone332
+    400070: Bone333
+    400072: Bone334
+    400074: Bone335
+    400076: Bone336
+    400078: Bone337
+    400080: Bone338
+    400082: Bone339
+    400084: Bone340
+    400086: Bone341
+    400088: Bone342
+    400090: Bone343
+    400092: Bone344
+    400094: Bone345
+    400096: Bone346
+    400098: Bone347
+    400100: Bone348
+    400102: Bone349
+    400104: Bone350
+    400106: Bone351
+    400108: Bone352
+    400110: Bone353
+    400112: Bone354
+    400114: Bone355
+    400116: Bone356
+    400118: Bone357
+    400120: Bone358
+    400122: Bone359
+    400124: Bone360
+    400126: Bone361
+    400128: Bone362
+    400130: Bone363
+    400132: Bone364
+    400134: Bone365
+    400136: Bone366
+    400138: Bone367
+    400140: Bone368
+    400142: Bone369
+    400144: Bone370
+    400146: Bone371
+    400148: Bone372
+    400150: Bone373
+    400152: Bone374
+    400154: Bone375
+    400156: Bone376
+    400158: Bone377
+    400160: Bone378
+    400162: Bone412
+    400164: Bone413
+    400166: Bone414
+    400168: Bone415
+    400170: Bone416
+    400172: Bone417
+    400174: Bone418
+    400176: Bone419
+    400178: Bone420
+    400180: Bone421
+    400182: Bone422
+    400184: Bone423
+    400186: Bone424
+    400188: Bone425
+    400190: Bone426
+    400192: Bone427
+    400194: Bone428
+    400196: Bone429
+    400198: Bone430
+    400200: Bone431
+    400202: Bone432
+    400204: Bone433
+    400206: Bone434
+    400208: Bone435
+    400210: Bone436
+    400212: Bone437
+    400214: Bone438
+    400216: Bone439
+    400218: Bone440
+    400220: Bone441
+    400222: Bone442
+    400224: Bone443
+    400226: Bone444
+    400228: Bone445
+    400230: Bone446
+    400232: Bone447
+    400234: Bone448
+    400236: Bone449
+    400238: Bone450
+    400240: Bone451
+    400242: Bone452
+    400244: Bone468
+    400246: Bone469
+    400248: Bone470
+    400250: Bone471
+    400252: Bone472
+    400254: Bone473
+    400256: Bone474
+    400258: Bone475
+    400260: Bone476
+    400262: Bone477
+    400264: Bone478
+    400266: Bone479
+    400268: Bone480
+    400270: Bone481
+    400272: Bone482
+    400274: Bone483
+    400276: Bone484
+    400278: Bone485
+    400280: Bone486
+    400282: Bone487
+    400284: Bone488
+    400286: Book Store001
+    400288: Boot003
+    400290: Boot004
+    400292: BreadHouse001
+    400294: BreadLoaf003
+    400296: BreadPiece003
+    400298: BreadPiece004
+    400300: Burger1
+    400302: Burger2
+    400304: Burgrt_904
+    400306: Burgrt_905
+    400308: Burgrt_906
+    400310: Burgrt_907
+    400312: Cabbage001
+    400314: Candy Shop002
+    400316: Carrot001
+    400318: Circle013
+    400320: Circle020
+    400322: Circle021
+    400324: Circle025
+    400326: Circle026
+    400328: Circle027
+    400330: cola-lit002
+    400332: cola-lit003
+    400334: Donut Shop004
+    400336: Donut Shop006
+    400338: Donut2
+    400340: Donut_010
+    400342: Donut_011
+    400344: Donut_012
+    400346: Donut_016
+    400348: Donut_017
+    400350: Donut_018
+    400352: DrinkStall002
+    400354: DrinkStall003
+    400356: Drug Store - opacity box002
+    400358: Drug Store002
+    400360: Eggplant003
+    400362: Eggplant004
+    400364: Fashion
+    400366: Fashion Shop001
+    400368: Fat001
+    400370: Fish Shop002
+    400372: Fish_Bowl001
+    400374: Fitness Center001
+    400376: Flower_008
+    400378: Fruit024
+    400380: Fruit025
+    400382: Fruit026
+    400384: Fruit027
+    400386: Fruit028
+    400388: Fruit029
+    400390: Fruit030
+    400392: Fruit031
+    400394: Fruit032
+    400396: Fruit033
+    400398: FruitShop
+    400400: GreenHouse001
+    400402: Grocery
+    400404: GroceryStore001
+    400406: Ground002
+    400408: Group026
+    400410: Group028
+    400412: Group031
+    400414: Group032
+    400416: Group036
+    400418: Group039
+    400420: Group040
+    400422: Group049
+    400424: Group052
+    400426: Group062
+    400428: Group063
+    400430: Group064
+    400432: Group069
+    400434: Group094
+    400436: Group096
+    400438: Group097
+    400440: Group098
+    400442: Group104
+    400444: Group105
+    400446: Group115
+    400448: Group116
+    400450: Group117
+    400452: Group118
+    400454: Group119
+    400456: Guide_Pole001
+    400458: Guide_Pole002
+    400460: Haircut Store001
+    400462: Hamburger RestaurantA001
+    400464: Ice Cream Store 002
+    400466: IceCream004
+    400468: Karaoke Club001
+    400470: Lid001
+    400472: Mirror001
+    400474: Object479
+    400476: Object480
+    400478: Object481
+    400480: Object482
+    400482: Object483
+    400484: Object484
+    400486: Object485
+    400488: Object486
+    400490: Object487
+    400492: Object488
+    400494: Object489
+    400496: Object490
+    400498: Object491
+    400500: Object492
+    400502: Object493
+    400504: Object494
+    400506: Object495
+    400508: Object496
+    400510: Object497
+    400512: Object501
+    400514: Object503
+    400516: Object504
+    400518: Object505
+    400520: Object506
+    400522: Object507
+    400524: Object508
+    400526: Object509
+    400528: Object510
+    400530: Object511
+    400532: Object512
+    400534: Object513
+    400536: Object531
+    400538: Object532
+    400540: Object533
+    400542: Object534
+    400544: Object535
+    400546: Object536
+    400548: Object537
+    400550: Object538
+    400552: Object539
+    400554: Object540
+    400556: Object541
+    400558: Object543
+    400560: Object544
+    400562: Object545
+    400564: Object550
+    400566: Object551
+    400568: Object552
+    400570: Object553
+    400572: Object554
+    400574: Object555
+    400576: Object556
+    400578: Object557
+    400580: Object558
+    400582: Object559
+    400584: PetShop001
+    400586: PinkHouse001
+    400588: PinkHouse002
+    400590: Pizza_shop003
+    400592: Pizza_shop004
+    400594: Pizza_shop005
+    400596: Point010
+    400598: Point011
+    400600: Point012
+    400602: Ramen_026
+    400604: Ramen_027
+    400606: Ramen_028
+    400608: Ramen_029
+    400610: Ramen_030
+    400612: Ramen_031
+    400614: Ramen_032
+    400616: Ramen_033
+    400618: Ramen_034
+    400620: Ramen_035
+    400622: Ramen_036
+    400624: Ramen_037
+    400626: Ramen_038
+    400628: Ramen_039
+    400630: Ramen_040
+    400632: Ramen_041
+    400634: Ramen_042
+    400636: Ramen_043
+    400638: Ramen_044
+    400640: Ramen_045
+    400642: Ramen_046
+    400644: Ramen_047
+    400646: Ramen_048
+    400648: Ramen_049
+    400650: Ramen_050
+    400652: Road
+    400654: Road Piece 006
+    400656: Road Piece 007
+    400658: Road Piece 008
+    400660: Road Piece 009
+    400662: Road Piece 010
+    400664: Road Piece 011
+    400666: Road Piece 012
+    400668: Road Piece 013
+    400670: Road Piece 014
+    400672: Road Piece 015
+    400674: Road Piece 016
+    400676: Road Piece 017
+    400678: Road Piece 018
+    400680: Road Piece 019
+    400682: Road Piece 020
+    400684: Road Piece 021
+    400686: Road Piece 022
+    400688: Road Piece 023
+    400690: Road Piece 024
+    400692: Road Piece 025
+    400694: Road Piece 026
+    400696: Road Piece 027
+    400698: Road Piece 028
+    400700: Road Piece 029
+    400702: Road Piece 030
+    400704: Road Piece 031
+    400706: Road Piece 032
+    400708: Road Piece 033
+    400710: Road Piece 034
+    400712: Road Piece 035
+    400714: Road Piece 036
+    400716: Road Piece 037
+    400718: Road Piece 038
+    400720: Road Piece 039
+    400722: Road Piece 040
+    400724: Road Piece 041
+    400726: Road Piece 042
+    400728: RoadPiece_008
+    400730: RoadPiece_009
+    400732: RoadPiece_010
+    400734: RoadPiece_011
+    400736: RoadPiece_012
+    400738: RoadPiece_06
+    400740: RoadPiece_L
+    400742: Sandal001
+    400744: Scissor003
+    400746: Scissor004
+    400748: Shoe001
+    400750: ShoeHouse 001
+    400752: Shrub001
+    400754: Shrub002
+    400756: Shrub003
+    400758: Shrub004
+    400760: Shrub005
+    400762: Shrub006
+    400764: Shrub007
+    400766: Shrub008
+    400768: Shrub009
+    400770: Shrub010
+    400772: Shrub011
+    400774: Shrub012
+    400776: Street Lamp001
+    400778: Street Lamp002
+    400780: Street Lamp003
+    400782: Street Lamp004
+    400784: Street Lamp005
+    400786: Street Lamp006
+    400788: Street Lamp007
+    400790: Street Lamp008
+    400792: Street Lamp009
+    400794: Street Lamp010
+    400796: Street Lamp011
+    400798: Street Lamp012
+    400800: Street Lamp013
+    400802: Street Lamp014
+    400804: Table_003
+    400806: Table_004
+    400808: Table_005
+    400810: Table_006
+    400812: Table_007
+    400814: Table_008
+    400816: Tomato001
+    400818: Tree_005
+    400820: Tree_006
+    400822: Tree_007
+    400824: Wine Bar002
+    400826: Wine Bar003
+    400828: Wine-Lid002
+    400830: Wine-Lid003
+    400832: Wine003
+    400834: Wine004
+    400836: WineCup003
+    400838: WineCup004
+    400840: Wooden  Fence003
+    400842: Wooden  Fence005
+    400844: Wooden  Fence006
+    400846: Wooden  Fence007
+    400848: Wooden  Fence008
+    400850: Wooden  Fence009
+    400852: Wooden  Fence010
+    400854: Wooden  Fence011
+    400856: Wooden  Fence012
+    400858: Wooden  Fence013
+    400860: Wooden  Fence014
+    400862: Yellow_3_003
+    400864: Yellow_fat_004
+    400866: Yellow_fat_005
+    2300000: Advertising_Pole_005
+    2300002: Advertising_Pole_008
+    2300004: Advertising_Pole_009
+    2300006: Advertising_Pole_010
+    2300008: Advertising_Pole_011
+    2300010: Advertising_Pole_012
+    2300012: B004
+    2300014: B005
+    2300016: B006
+    2300018: Basket001
+    2300020: Big_Ben_Clock_018
+    2300022: Big_Ben_Clock_019
+    2300024: Big_Ben_Clock_020
+    2300026: Big_Ben_Clock_021
+    2300028: Big_Ben_Clock_022
+    2300030: Big_Ben_Clock_023
+    2300032: Big_Ben_Clock_024
+    2300034: Big_Ben_Clock_025
+    2300036: Book Store001
+    2300038: BreadHouse001
+    2300040: BreadLoaf003
+    2300042: BreadPiece003
+    2300044: BreadPiece004
+    2300046: Burgrt_904
+    2300048: Burgrt_905
+    2300050: Burgrt_906
+    2300052: Burgrt_907
+    2300054: Cabbage001
+    2300056: Candy Shop002
+    2300058: Carrot001
+    2300060: cola-lit002
+    2300062: cola-lit003
+    2300064: Donut Shop004
+    2300066: Donut Shop006
+    2300068: Donut_010
+    2300070: Donut_011
+    2300072: Donut_012
+    2300074: Donut_016
+    2300076: Donut_017
+    2300078: Donut_018
+    2300080: DrinkStall002
+    2300082: DrinkStall003
+    2300084: Drug Store - opacity box002
+    2300086: Drug Store002
+    2300088: Eggplant003
+    2300090: Eggplant004
+    2300092: Fashion Shop001
+    2300094: Fish Shop002
+    2300096: Fish_Bowl001
+    2300098: Fitness Center001
+    2300100: Flower_008
+    2300102: Fruit024
+    2300104: Fruit025
+    2300106: Fruit026
+    2300108: Fruit027
+    2300110: Fruit028
+    2300112: Fruit029
+    2300114: Fruit030
+    2300116: Fruit031
+    2300118: Fruit032
+    2300120: Fruit033
+    2300122: GroceryStore001
+    2300124: Ground002
+    2300126: Guide_Pole001
+    2300128: Guide_Pole002
+    2300130: Haircut Store001
+    2300132: Hamburger RestaurantA001
+    2300134: Ice Cream Store 002
+    2300136: IceCream004
+    2300138: Karaoke Club001
+    2300140: Lid001
+    2300142: Mirror001
+    2300144: Object479
+    2300146: Object480
+    2300148: Object481
+    2300150: Object483
+    2300152: Object484
+    2300154: Object485
+    2300156: Object486
+    2300158: Object487
+    2300160: Object488
+    2300162: Object489
+    2300164: Object490
+    2300166: Object491
+    2300168: Object492
+    2300170: Object493
+    2300172: Object494
+    2300174: Object495
+    2300176: Object496
+    2300178: Object497
+    2300180: Object503
+    2300182: Object504
+    2300184: Object505
+    2300186: Object506
+    2300188: Object507
+    2300190: Object508
+    2300192: Object509
+    2300194: Object510
+    2300196: Object511
+    2300198: Object512
+    2300200: Object513
+    2300202: Object531
+    2300204: Object532
+    2300206: Object533
+    2300208: Object534
+    2300210: Object535
+    2300212: Object536
+    2300214: Object537
+    2300216: Object538
+    2300218: Object539
+    2300220: Object540
+    2300222: Object541
+    2300224: Object543
+    2300226: Object544
+    2300228: Object545
+    2300230: Object550
+    2300232: Object551
+    2300234: Object552
+    2300236: Object553
+    2300238: Object554
+    2300240: Object555
+    2300242: Object559
+    2300244: PetShop001
+    2300246: Pizza_shop003
+    2300248: Pizza_shop004
+    2300250: Pizza_shop005
+    2300252: Ramen_026
+    2300254: Ramen_027
+    2300256: Ramen_028
+    2300258: Ramen_029
+    2300260: Ramen_030
+    2300262: Ramen_031
+    2300264: Ramen_032
+    2300266: Ramen_033
+    2300268: Ramen_034
+    2300270: Ramen_035
+    2300272: Ramen_036
+    2300274: Ramen_037
+    2300276: Ramen_038
+    2300278: Ramen_039
+    2300280: Ramen_040
+    2300282: Ramen_041
+    2300284: Ramen_042
+    2300286: Ramen_043
+    2300288: Ramen_044
+    2300290: Ramen_045
+    2300292: Ramen_046
+    2300294: Ramen_047
+    2300296: Ramen_048
+    2300298: Ramen_049
+    2300300: Ramen_050
+    2300302: Road Piece 006
+    2300304: Road Piece 007
+    2300306: Road Piece 008
+    2300308: Road Piece 009
+    2300310: Road Piece 010
+    2300312: Road Piece 011
+    2300314: Road Piece 012
+    2300316: Road Piece 013
+    2300318: Road Piece 014
+    2300320: Road Piece 015
+    2300322: Road Piece 016
+    2300324: Road Piece 017
+    2300326: Road Piece 018
+    2300328: Road Piece 019
+    2300330: Road Piece 020
+    2300332: Road Piece 021
+    2300334: Road Piece 022
+    2300336: Road Piece 023
+    2300338: Road Piece 024
+    2300340: Road Piece 025
+    2300342: Road Piece 026
+    2300344: Road Piece 027
+    2300346: Road Piece 028
+    2300348: Road Piece 029
+    2300350: Road Piece 030
+    2300352: Road Piece 031
+    2300354: Road Piece 032
+    2300356: Road Piece 033
+    2300358: Road Piece 034
+    2300360: Road Piece 035
+    2300362: Road Piece 036
+    2300364: Road Piece 037
+    2300366: Road Piece 038
+    2300368: Road Piece 039
+    2300370: Road Piece 040
+    2300372: Road Piece 041
+    2300374: Road Piece 042
+    2300376: RoadPiece_008
+    2300378: RoadPiece_009
+    2300380: RoadPiece_010
+    2300382: RoadPiece_011
+    2300384: RoadPiece_012
+    2300386: RoadPiece_06
+    2300388: RoadPiece_L
+    2300390: Scissor003
+    2300392: Scissor004
+    2300394: ShoeHouse 001
+    2300396: Shrub001
+    2300398: Shrub002
+    2300400: Shrub003
+    2300402: Shrub004
+    2300404: Shrub005
+    2300406: Shrub006
+    2300408: Shrub007
+    2300410: Shrub008
+    2300412: Shrub009
+    2300414: Shrub010
+    2300416: Shrub011
+    2300418: Shrub012
+    2300420: Street Lamp001
+    2300422: Street Lamp002
+    2300424: Street Lamp003
+    2300426: Street Lamp004
+    2300428: Street Lamp005
+    2300430: Street Lamp006
+    2300432: Street Lamp007
+    2300434: Street Lamp008
+    2300436: Street Lamp009
+    2300438: Street Lamp010
+    2300440: Street Lamp011
+    2300442: Street Lamp012
+    2300444: Street Lamp013
+    2300446: Street Lamp014
+    2300448: Table_003
+    2300450: Table_004
+    2300452: Table_005
+    2300454: Table_006
+    2300456: Table_007
+    2300458: Table_008
+    2300460: Tomato001
+    2300462: Tree_005
+    2300464: Tree_006
+    2300466: Tree_007
+    2300468: Wine Bar002
+    2300470: Wine Bar003
+    2300472: Wine-Lid002
+    2300474: Wine-Lid003
+    2300476: Wine003
+    2300478: Wine004
+    2300480: WineCup003
+    2300482: WineCup004
+    2300484: Wooden  Fence003
+    2300486: Wooden  Fence005
+    2300488: Wooden  Fence006
+    2300490: Wooden  Fence007
+    2300492: Wooden  Fence008
+    2300494: Wooden  Fence009
+    2300496: Wooden  Fence010
+    2300498: Wooden  Fence011
+    2300500: Wooden  Fence012
+    2300502: Wooden  Fence013
+    2300504: Wooden  Fence014
+    3300000: Advertising_Pole_005
+    3300002: Advertising_Pole_008
+    3300004: Advertising_Pole_009
+    3300006: Advertising_Pole_010
+    3300008: Advertising_Pole_011
+    3300010: Advertising_Pole_012
+    3300012: B004
+    3300014: B005
+    3300016: B006
+    3300018: Basket001
+    3300020: Big_Ben_Clock_018
+    3300022: Big_Ben_Clock_019
+    3300024: Big_Ben_Clock_020
+    3300026: Big_Ben_Clock_021
+    3300028: Big_Ben_Clock_022
+    3300030: Big_Ben_Clock_023
+    3300032: Big_Ben_Clock_024
+    3300034: Big_Ben_Clock_025
+    3300036: Book Store001
+    3300038: BreadHouse001
+    3300040: BreadLoaf003
+    3300042: BreadPiece003
+    3300044: BreadPiece004
+    3300046: Burgrt_904
+    3300048: Burgrt_905
+    3300050: Burgrt_906
+    3300052: Burgrt_907
+    3300054: Cabbage001
+    3300056: Candy Shop002
+    3300058: Carrot001
+    3300060: cola-lit002
+    3300062: cola-lit003
+    3300064: Donut Shop004
+    3300066: Donut Shop006
+    3300068: Donut_010
+    3300070: Donut_011
+    3300072: Donut_012
+    3300074: Donut_016
+    3300076: Donut_017
+    3300078: Donut_018
+    3300080: DrinkStall002
+    3300082: DrinkStall003
+    3300084: Drug Store - opacity box002
+    3300086: Drug Store002
+    3300088: Eggplant003
+    3300090: Eggplant004
+    3300092: Fashion Shop001
+    3300094: Fish Shop002
+    3300096: Fish_Bowl001
+    3300098: Fitness Center001
+    3300100: Flower_008
+    3300102: Fruit024
+    3300104: Fruit025
+    3300106: Fruit026
+    3300108: Fruit027
+    3300110: Fruit028
+    3300112: Fruit029
+    3300114: Fruit030
+    3300116: Fruit031
+    3300118: Fruit032
+    3300120: Fruit033
+    3300122: GroceryStore001
+    3300124: Ground002
+    3300126: Guide_Pole001
+    3300128: Guide_Pole002
+    3300130: Haircut Store001
+    3300132: Hamburger RestaurantA001
+    3300134: Ice Cream Store 002
+    3300136: IceCream004
+    3300138: Karaoke Club001
+    3300140: Lid001
+    3300142: Mirror001
+    3300144: Object479
+    3300146: Object480
+    3300148: Object481
+    3300150: Object483
+    3300152: Object484
+    3300154: Object485
+    3300156: Object486
+    3300158: Object487
+    3300160: Object488
+    3300162: Object489
+    3300164: Object490
+    3300166: Object491
+    3300168: Object492
+    3300170: Object493
+    3300172: Object494
+    3300174: Object495
+    3300176: Object496
+    3300178: Object497
+    3300180: Object503
+    3300182: Object504
+    3300184: Object505
+    3300186: Object506
+    3300188: Object507
+    3300190: Object508
+    3300192: Object509
+    3300194: Object510
+    3300196: Object511
+    3300198: Object512
+    3300200: Object513
+    3300202: Object531
+    3300204: Object532
+    3300206: Object533
+    3300208: Object534
+    3300210: Object535
+    3300212: Object536
+    3300214: Object537
+    3300216: Object538
+    3300218: Object539
+    3300220: Object540
+    3300222: Object541
+    3300224: Object543
+    3300226: Object544
+    3300228: Object545
+    3300230: Object550
+    3300232: Object551
+    3300234: Object552
+    3300236: Object553
+    3300238: Object554
+    3300240: Object555
+    3300242: Object559
+    3300244: PetShop001
+    3300246: Pizza_shop003
+    3300248: Pizza_shop004
+    3300250: Pizza_shop005
+    3300252: Ramen_026
+    3300254: Ramen_027
+    3300256: Ramen_028
+    3300258: Ramen_029
+    3300260: Ramen_030
+    3300262: Ramen_031
+    3300264: Ramen_032
+    3300266: Ramen_033
+    3300268: Ramen_034
+    3300270: Ramen_035
+    3300272: Ramen_036
+    3300274: Ramen_037
+    3300276: Ramen_038
+    3300278: Ramen_039
+    3300280: Ramen_040
+    3300282: Ramen_041
+    3300284: Ramen_042
+    3300286: Ramen_043
+    3300288: Ramen_044
+    3300290: Ramen_045
+    3300292: Ramen_046
+    3300294: Ramen_047
+    3300296: Ramen_048
+    3300298: Ramen_049
+    3300300: Ramen_050
+    3300302: Road Piece 006
+    3300304: Road Piece 007
+    3300306: Road Piece 008
+    3300308: Road Piece 009
+    3300310: Road Piece 010
+    3300312: Road Piece 011
+    3300314: Road Piece 012
+    3300316: Road Piece 013
+    3300318: Road Piece 014
+    3300320: Road Piece 015
+    3300322: Road Piece 016
+    3300324: Road Piece 017
+    3300326: Road Piece 018
+    3300328: Road Piece 019
+    3300330: Road Piece 020
+    3300332: Road Piece 021
+    3300334: Road Piece 022
+    3300336: Road Piece 023
+    3300338: Road Piece 024
+    3300340: Road Piece 025
+    3300342: Road Piece 026
+    3300344: Road Piece 027
+    3300346: Road Piece 028
+    3300348: Road Piece 029
+    3300350: Road Piece 030
+    3300352: Road Piece 031
+    3300354: Road Piece 032
+    3300356: Road Piece 033
+    3300358: Road Piece 034
+    3300360: Road Piece 035
+    3300362: Road Piece 036
+    3300364: Road Piece 037
+    3300366: Road Piece 038
+    3300368: Road Piece 039
+    3300370: Road Piece 040
+    3300372: Road Piece 041
+    3300374: Road Piece 042
+    3300376: RoadPiece_008
+    3300378: RoadPiece_009
+    3300380: RoadPiece_010
+    3300382: RoadPiece_011
+    3300384: RoadPiece_012
+    3300386: RoadPiece_06
+    3300388: RoadPiece_L
+    3300390: Scissor003
+    3300392: Scissor004
+    3300394: ShoeHouse 001
+    3300396: Shrub001
+    3300398: Shrub002
+    3300400: Shrub003
+    3300402: Shrub004
+    3300404: Shrub005
+    3300406: Shrub006
+    3300408: Shrub007
+    3300410: Shrub008
+    3300412: Shrub009
+    3300414: Shrub010
+    3300416: Shrub011
+    3300418: Shrub012
+    3300420: Street Lamp001
+    3300422: Street Lamp002
+    3300424: Street Lamp003
+    3300426: Street Lamp004
+    3300428: Street Lamp005
+    3300430: Street Lamp006
+    3300432: Street Lamp007
+    3300434: Street Lamp008
+    3300436: Street Lamp009
+    3300438: Street Lamp010
+    3300440: Street Lamp011
+    3300442: Street Lamp012
+    3300444: Street Lamp013
+    3300446: Street Lamp014
+    3300448: Table_003
+    3300450: Table_004
+    3300452: Table_005
+    3300454: Table_006
+    3300456: Table_007
+    3300458: Table_008
+    3300460: Tomato001
+    3300462: Tree_005
+    3300464: Tree_006
+    3300466: Tree_007
+    3300468: Wine Bar002
+    3300470: Wine Bar003
+    3300472: Wine-Lid002
+    3300474: Wine-Lid003
+    3300476: Wine003
+    3300478: Wine004
+    3300480: WineCup003
+    3300482: WineCup004
+    3300484: Wooden  Fence003
+    3300486: Wooden  Fence005
+    3300488: Wooden  Fence006
+    3300490: Wooden  Fence007
+    3300492: Wooden  Fence008
+    3300494: Wooden  Fence009
+    3300496: Wooden  Fence010
+    3300498: Wooden  Fence011
+    3300500: Wooden  Fence012
+    3300502: Wooden  Fence013
+    3300504: Wooden  Fence014
+    4300000: Advertising_Pole_005
+    4300002: Street Lamp001
+    4300004: Guide_Pole001
+    4300006: Shrub001
+    4300008: Shrub002
+    4300010: Street Lamp002
+    4300012: Donut_010
+    4300014: Donut_011
+    4300016: Donut Shop004
+    4300018: Donut_012
+    4300020: Object479
+    4300022: PetShop001
+    4300024: Object480
+    4300026: Shrub003
+    4300028: Street Lamp003
+    4300030: Guide_Pole002
+    4300032: Ice Cream Store 002
+    4300034: IceCream004
+    4300036: Donut_016
+    4300038: Donut_017
+    4300040: Donut_018
+    4300042: Donut Shop006
+    4300044: Object491
+    4300046: Object492
+    4300048: Book Store001
+    4300050: Object493
+    4300052: Object494
+    4300054: Fashion Shop001
+    4300056: Object501
+    4300058: Fitness Center001
+    4300060: Object503
+    4300062: Object504
+    4300064: Object505
+    4300066: Object506
+    4300068: Object507
+    4300070: Object508
+    4300072: Object509
+    4300074: Object510
+    4300076: Karaoke Club001
+    4300078: Object511
+    4300080: Object512
+    4300082: Candy Shop002
+    4300084: Object513
+    4300086: Shrub004
+    4300088: Shrub005
+    4300090: Flower_008
+    4300092: Object483
+    4300094: Object484
+    4300096: Object485
+    4300098: Object486
+    4300100: Object487
+    4300102: Object488
+    4300104: Object489
+    4300106: Object490
+    4300108: Object481
+    4300110: Object482
+    4300112: Shrub006
+    4300114: Shrub007
+    4300116: Object531
+    4300118: Object532
+    4300120: Street Lamp004
+    4300122: Wooden  Fence003
+    4300124: Shrub008
+    4300126: Shrub009
+    4300128: Object533
+    4300130: DrinkStall002
+    4300132: cola-lit002
+    4300134: Object535
+    4300136: Object536
+    4300138: Object537
+    4300140: Object538
+    4300142: Object539
+    4300144: Object540
+    4300146: Wooden  Fence005
+    4300148: Wooden  Fence006
+    4300150: Wooden  Fence007
+    4300152: Wooden  Fence008
+    4300154: Wooden  Fence009
+    4300156: Object541
+    4300158: Shrub010
+    4300160: Shrub011
+    4300162: Table_003
+    4300164: Table_004
+    4300166: Table_005
+    4300168: Table_006
+    4300170: Table_007
+    4300172: Table_008
+    4300174: Wooden  Fence010
+    4300176: Wooden  Fence011
+    4300178: Wooden  Fence012
+    4300180: Wooden  Fence013
+    4300182: Wooden  Fence014
+    4300184: Street Lamp005
+    4300186: Street Lamp006
+    4300188: Street Lamp007
+    4300190: Street Lamp008
+    4300192: Street Lamp009
+    4300194: Street Lamp010
+    4300196: Advertising_Pole_008
+    4300198: Advertising_Pole_009
+    4300200: Pizza_shop003
+    4300202: Pizza_shop004
+    4300204: Pizza_shop005
+    4300206: Ramen_026
+    4300208: Ramen_027
+    4300210: Ramen_028
+    4300212: Ramen_029
+    4300214: Ramen_030
+    4300216: Ramen_031
+    4300218: Ramen_032
+    4300220: Ramen_033
+    4300222: Ramen_034
+    4300224: Ramen_035
+    4300226: Ramen_036
+    4300228: Ramen_037
+    4300230: Ramen_038
+    4300232: Ramen_039
+    4300234: Ramen_040
+    4300236: Ramen_041
+    4300238: Ramen_042
+    4300240: Ramen_043
+    4300242: Ramen_044
+    4300244: Ramen_045
+    4300246: Ramen_046
+    4300248: Ramen_047
+    4300250: Ramen_048
+    4300252: Ramen_049
+    4300254: Ramen_050
+    4300256: BlueHouse001
+    4300258: GreenHouse001
+    4300260: PinkHouse001
+    4300262: Street Lamp011
+    4300264: Street Lamp012
+    4300266: Object543
+    4300268: BlueHouse002
+    4300270: Object544
+    4300272: Object545
+    4300274: PinkHouse002
+    4300276: Ground002
+    4300278: Tree_005
+    4300280: Tree_006
+    4300282: Tree_007
+    4300284: Advertising_Pole_010
+    4300286: Advertising_Pole_011
+    4300288: Boot003
+    4300290: Sandal001
+    4300292: Shoe001
+    4300294: ShoeHouse 001
+    4300296: Boot004
+    4300298: Basket001
+    4300300: Tomato001
+    4300302: Carrot001
+    4300304: Eggplant003
+    4300306: Eggplant004
+    4300308: Cabbage001
+    4300310: GroceryStore001
+    4300312: Haircut Store001
+    4300314: Scissor003
+    4300316: Scissor004
+    4300318: Lid001
+    4300320: Mirror001
+    4300322: Fat001
+    4300324: Yellow_fat_004
+    4300326: Yellow_3_003
+    4300328: Shrub012
+    4300330: Street Lamp013
+    4300332: Street Lamp014
+    4300334: BreadHouse001
+    4300336: BreadPiece003
+    4300338: BreadPiece004
+    4300340: BreadLoaf003
+    4300342: Advertising_Pole_012
+    4300344: Big_Ben_Clock_017
+    4300346: Big_Ben_Clock_018
+    4300348: Big_Ben_Clock_019
+    4300350: Big_Ben_Clock_020
+    4300352: Big_Ben_Clock_021
+    4300354: Big_Ben_Clock_022
+    4300356: Big_Ben_Clock_023
+    4300358: Big_Ben_Clock_024
+    4300360: Big_Ben_Clock_025
+    4300362: Yellow_fat_005
+    4300364: Burgrt_907
+    4300366: Burgrt_904
+    4300368: Burgrt_905
+    4300370: Burgrt_906
+    4300372: B005
+    4300374: B006
+    4300376: B004
+    4300378: Hamburger RestaurantA001
+    4300380: Fruit024
+    4300382: Fruit025
+    4300384: Fruit026
+    4300386: Fruit027
+    4300388: Fruit028
+    4300390: Fruit029
+    4300392: Fruit030
+    4300394: Fruit031
+    4300396: Fruit033
+    4300398: Fruit032
+    4300400: Road Piece 006
+    4300402: Road Piece 007
+    4300404: Road Piece 008
+    4300406: Road Piece 009
+    4300408: Road Piece 010
+    4300410: Road Piece 011
+    4300412: Road Piece 012
+    4300414: RoadPiece_06
+    4300416: Road Piece 013
+    4300418: Road Piece 014
+    4300420: Road Piece 016
+    4300422: Road Piece 017
+    4300424: Road Piece 018
+    4300426: Road Piece 019
+    4300428: RoadPiece_008
+    4300430: Road Piece 020
+    4300432: RoadPiece_009
+    4300434: Road Piece 021
+    4300436: Road Piece 022
+    4300438: Road Piece 023
+    4300440: RoadPiece_010
+    4300442: Road Piece 025
+    4300444: Road Piece 026
+    4300446: Road Piece 015
+    4300448: Road Piece 024
+    4300450: Road Piece 027
+    4300452: Road Piece 028
+    4300454: Road Piece 029
+    4300456: RoadPiece_011
+    4300458: Road Piece 030
+    4300460: Road Piece 031
+    4300462: RoadPiece_012
+    4300464: Road Piece 032
+    4300466: Road Piece 033
+    4300468: Road Piece 034
+    4300470: RoadPiece_L
+    4300472: Road Piece 036
+    4300474: Road Piece 037
+    4300476: Road Piece 038
+    4300478: Road Piece 039
+    4300480: Road Piece 040
+    4300482: Road Piece 041
+    4300484: Road Piece 042
+    4300486: Road Piece 035
+    4300488: Object558
+    4300490: Fish_Bowl001
+    4300492: Object556
+    4300494: Object557
+    4300496: adw004
+    4300498: Object559
+    4300500: Fish Shop002
+    4300502: WineCup004
+    4300504: Wine004
+    4300506: Wine Bar003
+    4300508: Wine-Lid003
+    4300510: Object555
+    4300512: Object496
+    4300514: Object497
+    4300516: Drug Store - opacity box002
+    4300518: Drug Store002
+    4300520: Object495
+    4300522: Object534
+    4300524: WineCup003
+    4300526: Wine003
+    4300528: Wine-Lid002
+    4300530: Wine Bar002
+    4300532: cola-lit003
+    4300534: Object550
+    4300536: Object551
+    4300538: Object552
+    4300540: Object553
+    4300542: Object554
+    4300544: DrinkStall003
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: adw004
+    13700002: Big_Ben_Clock_017
+    13700004: BlueHouse001
+    13700006: BlueHouse002
+    13700008: Boot003
+    13700010: Boot004
+    13700012: Fat001
+    13700014: GreenHouse001
+    13700016: Object482
+    13700018: Object501
+    13700020: Object556
+    13700022: Object557
+    13700024: Object558
+    13700026: PinkHouse001
+    13700028: PinkHouse002
+    13700030: Sandal001
+    13700032: Shoe001
+    13700034: Yellow_3_003
+    13700036: Yellow_fat_004
+    13700038: Yellow_fat_005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
